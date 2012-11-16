@@ -44,6 +44,7 @@ BerryPI 0.1
   - WIEN2WANNIER (tested against 0.92)
   - Python (tested against 2.7.3)
   - NumPy (tested against 1.6.2)
+Note: Users are suggested not to use dependencies with version older than mentioned above.
   
 * File Descriptions
 ** win2nnkp.py
